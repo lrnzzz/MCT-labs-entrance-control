@@ -2,8 +2,16 @@ MCT labs entrance control with RFID
 =========================
 
 #api
-tabel studentenkaarten: https://medical-it.be/api/mctlab/cards  
-how to use? https://github.com/alixaxel/ArrestDB
+##tabel studentenkaarten
+https://medical-it.be/api/mctlab/cards  
+
+##tabel logs
+https://medical-it.be/api/mctlab/log 
+
+##how to use?
+https://github.com/alixaxel/ArrestDB
+
+
 
 
 #used libs
