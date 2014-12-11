@@ -1,4 +1,4 @@
-MTA labs entrance control with RFID
+Multimedia Technology Lab entrance control with RFID
 =========================
 
 #api
