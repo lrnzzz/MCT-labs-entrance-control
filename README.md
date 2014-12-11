@@ -11,5 +11,5 @@ https://github.com/csquared/arduino-restclient
 https://github.com/bblanchon/ArduinoJson  
 
 #todo
-add loging to the database
+add loging to the database  
 add kind of pairing, so people who have permission can give permission to others (incl. logging)
